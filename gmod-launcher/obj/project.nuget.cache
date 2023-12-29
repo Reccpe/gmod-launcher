@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNQI9gMtNMgsSJS5W85CWCbQLPV8DG9eFQc5c+m4CVFIueTAgNjM73M0FKzyKWyhrMJUaCXgr1/HcpdsUDylAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\demir\\source\\repos\\gmod-launcher\\gmod-launcher\\gmod-launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demir\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
